@@ -4,7 +4,7 @@
 
 package ExerciciosJava;
 
-public class Exercicio2_divisiveisPor11 {
+public class Ex02_divisiveisPor11 {
 	public static void main(String[] args) {
 		for(int i = 1000; i < 2000; i++) {
 			if(i%11==0) {

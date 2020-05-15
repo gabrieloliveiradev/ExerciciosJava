@@ -17,7 +17,7 @@ package ExerciciosJava;
 
 import java.util.Scanner;
 
-public class Exercicio6_pesquisa {
+public class Ex06_pesquisa {
 	public static void main(String[] args) {
 		int mulherNervosa=0, homemAgressivo=0, nervoso40=0, calmo18=0, calmo=0;
 		Scanner entrada = new Scanner(System.in);

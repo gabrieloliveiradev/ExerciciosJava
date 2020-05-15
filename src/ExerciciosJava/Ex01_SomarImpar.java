@@ -4,7 +4,7 @@
 
 package ExerciciosJava;
 
-public class Exercicio1_SomarImpar {
+public class Ex01_SomarImpar {
 	public static void main(String[] args) {
 		int soma =0;
 		for (int i = 1; i < 501; i++) {
